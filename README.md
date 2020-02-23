@@ -1,7 +1,8 @@
 # img2bead
 Image to bead pattern editor
 
-Example:
+Sample:
+![](beadsample.jpg)
 
 Original sprite
 
